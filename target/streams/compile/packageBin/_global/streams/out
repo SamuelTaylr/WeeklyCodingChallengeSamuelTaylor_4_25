@@ -1,0 +1,9 @@
+[debug] Packaging C:\Users\treat\IdeaProjects\WeeklyCodingChallengeSamuelTaylor_4_25\target\scala-2.11\weeklycodingchallengesamueltaylor_4_25_2.11-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	test$.class
+[debug] 	  C:\Users\treat\IdeaProjects\WeeklyCodingChallengeSamuelTaylor_4_25\target\scala-2.11\classes\test$.class
+[debug] 	test$delayedInit$body.class
+[debug] 	  C:\Users\treat\IdeaProjects\WeeklyCodingChallengeSamuelTaylor_4_25\target\scala-2.11\classes\test$delayedInit$body.class
+[debug] 	test.class
+[debug] 	  C:\Users\treat\IdeaProjects\WeeklyCodingChallengeSamuelTaylor_4_25\target\scala-2.11\classes\test.class
+[debug] Done packaging.

@@ -1,0 +1,14 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\treat\IdeaProjects\WeeklyCodingChallengeSamuelTaylor_4_25\target\scala-2.11\classes.bak
+[debug] About to delete class files:
+[debug] 	test.class
+[debug] 	test$.class
+[debug] 	test$delayedInit$body.class
+[debug] We backup class files:
+[debug] 	test.class
+[debug] 	test$.class
+[debug] 	test$delayedInit$body.class
+[debug] Registering generated classes:
+[debug] 	test.class
+[debug] 	test$.class
+[debug] 	test$delayedInit$body.class
+[debug] Removing the temporary directory used for backing up class files: C:\Users\treat\IdeaProjects\WeeklyCodingChallengeSamuelTaylor_4_25\target\scala-2.11\classes.bak
